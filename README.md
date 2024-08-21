@@ -1,4 +1,5 @@
 Influencer Market App
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
@@ -78,11 +79,11 @@ To learn more about React Native, take a look at the following resources:
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
-
-![1] (https://raw.githubusercontent.com/akash1995/influencer-marketing/main/1.jpg)
-![2] (https://raw.githubusercontent.com/akash1995/influencer-marketing/main/2.jpg)
-![3] (https://raw.githubusercontent.com/akash1995/influencer-marketing/main/3.jpg)
-![4] (https://raw.githubusercontent.com/akash1995/influencer-marketing/main/4.jpg)
-![5] (https://raw.githubusercontent.com/akash1995/influencer-marketing/main/5.jpg)
-![6] (https://raw.githubusercontent.com/akash1995/influencer-marketing/main/6.jpg)
-![7] (https://raw.githubusercontent.com/akash1995/influencer-marketing/main/7.jpg)
+- 
+![1](https://github.com/user-attachments/assets/0d372817-1d30-45e3-8f25-d0dafba36913)
+![2](https://github.com/user-attachments/assets/a9b2415b-4a89-480e-8f70-90b432f6a1a4)
+![3](https://github.com/user-attachments/assets/cfe73820-ec15-4f96-8942-8aa21b2fd646)
+![4](https://github.com/user-attachments/assets/083da906-3124-47ff-b708-b1a9167f6b2e)
+![5](https://github.com/user-attachments/assets/27f64b11-f01e-4b12-8e2d-0278d0f0f172)
+![6](https://github.com/user-attachments/assets/cc6cbeb1-6d4c-46cf-b36b-6ccda42bd31f)
+![7](https://github.com/user-attachments/assets/a36a5403-3f56-45b6-beae-77bad89dc753)
