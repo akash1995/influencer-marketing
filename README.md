@@ -79,10 +79,10 @@ To learn more about React Native, take a look at the following resources:
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
 
-https://raw.githubusercontent.com/akash1995/influencer-marketing/main/1.jpg
-https://raw.githubusercontent.com/akash1995/influencer-marketing/main/2.jpg
-https://raw.githubusercontent.com/akash1995/influencer-marketing/main/3.jpg
-https://raw.githubusercontent.com/akash1995/influencer-marketing/main/4.jpg
-https://raw.githubusercontent.com/akash1995/influencer-marketing/main/5.jpg
-https://raw.githubusercontent.com/akash1995/influencer-marketing/main/6.jpg
-https://raw.githubusercontent.com/akash1995/influencer-marketing/main/7.jpg
+![1] (https://raw.githubusercontent.com/akash1995/influencer-marketing/main/1.jpg)
+![2] (https://raw.githubusercontent.com/akash1995/influencer-marketing/main/2.jpg)
+![3] (https://raw.githubusercontent.com/akash1995/influencer-marketing/main/3.jpg)
+![4] (https://raw.githubusercontent.com/akash1995/influencer-marketing/main/4.jpg)
+![5] (https://raw.githubusercontent.com/akash1995/influencer-marketing/main/5.jpg)
+![6] (https://raw.githubusercontent.com/akash1995/influencer-marketing/main/6.jpg)
+![7] (https://raw.githubusercontent.com/akash1995/influencer-marketing/main/7.jpg)
